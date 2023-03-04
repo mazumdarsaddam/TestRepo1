@@ -11,6 +11,7 @@ public class forloopDemo {
 		 * Code to be executed
 		 * }
 		 */
+	// love you
 		System.out.println("i live in bronx");
 		
 		// write "i love you " 10 times using for loop

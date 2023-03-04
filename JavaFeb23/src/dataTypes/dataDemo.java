@@ -14,7 +14,7 @@ public class dataDemo {
 		 int sum;
 		 int sum$1;
 		 int sum$6;
-		 //int sum@
+		// int sum@
 		 
 		 /**
 		  * 

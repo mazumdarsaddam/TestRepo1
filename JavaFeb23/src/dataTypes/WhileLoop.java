@@ -1,4 +1,4 @@
-package dataTypes;
+ package dataTypes;
 
 public class WhileLoop {
 
